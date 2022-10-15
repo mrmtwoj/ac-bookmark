@@ -14,3 +14,8 @@ https://vulners.com
 https://crt.sh
 https://grep.app
 ```
+
+Coomand FUZZIng Check extension in request 
+```sh
+ffuf -request 'file.req' -request-proto hhtp or https -w 'List extensions fuzzing' -ms 'size header+body'
+```
