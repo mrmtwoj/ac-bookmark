@@ -8,6 +8,7 @@ https://github.com/411Hall/JAWS
 https://github.com/unicorn-engine/unicorn
 https://github.com/ropnop/kerbrute
 https://www.r57shell.net
+https://github.com/swisskyrepo/PayloadsAllTheThings
 ```
 
 ```sh
