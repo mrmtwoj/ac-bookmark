@@ -8,6 +8,7 @@ https://github.com/411Hall/JAWS
 https://github.com/unicorn-engine/unicorn
 https://github.com/ropnop/kerbrute
 https://github.com/swisskyrepo/PayloadsAllTheThings
+https://github.com/cyberheartmi9/Frida-Guide/blob/main/Frida%20Guide/Frida%20Guide.md
 https://www.r57shell.net
 
 ```
