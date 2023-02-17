@@ -18,6 +18,7 @@ https://wiki.96.mk/
 https://vulners.com
 https://crt.sh
 https://grep.app
+https://github.com/Live-Hack-CVE
 ```
 
 ### Command FUZZIng Check extension in request
