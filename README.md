@@ -36,3 +36,9 @@ powershell . (nslookup -q=txt mrmtwoj.ir)[-1]
 ```sh
 {"username":"admin","password":{"$ne":""}}
 ```
+
+```python
+Scaling Network Scanning
+https://github.com/natlas/natlas
+https://alternativeto.net/software/natlas/about/
+```
