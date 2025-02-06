@@ -12,14 +12,13 @@ https://github.com/cyberheartmi9/Frida-Guide/blob/main/Frida%20Guide/Frida%20Gui
 https://www.r57shell.net
 https://wiki.96.mk/
 https://ninite.com/
-
-```
-
-```sh
 https://vulners.com
 https://crt.sh
 https://grep.app
 https://github.com/Live-Hack-CVE
+https://search.censys.io/
+https://crt.sh/json?q=domainname
+https://vulmon.com/
 ```
 
 ### Command FUZZIng Check extension in request
