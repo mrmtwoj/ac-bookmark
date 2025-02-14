@@ -225,6 +225,7 @@ https://crt.sh/json?q=domainname
 https://vulmon.com/
 https://www.tarlogic.com/blog/
 https://www.blazeinfosec.com/
+https://www.ired.team/
 ```
 
 ### Command FUZZIng Check extension in request
