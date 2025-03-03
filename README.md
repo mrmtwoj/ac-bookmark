@@ -226,6 +226,7 @@ https://vulmon.com/
 https://www.tarlogic.com/blog/
 https://www.blazeinfosec.com/
 https://www.ired.team/
+https://github.com/decalage2
 ```
 
 ### Command FUZZIng Check extension in request
